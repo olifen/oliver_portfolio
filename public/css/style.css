@@ -70,10 +70,34 @@ body {
   display: block;
 }
 
-.row {
-  /*margin-top: 20px;*/
+.project-title {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
+.btn {
+  width: 49%;
+  background: linear-gradient(to bottom right, hotpink, purple);
+  border: none;
+}
+
+.about {
+  background: linear-gradient(to bottom right, hotpink, purple);
+  width: 100%;
+  padding: 10%;
+  color: white;
+
+}
+
+.about-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.about-content {
+  margin-top: 50px;
+}
 
 
 
