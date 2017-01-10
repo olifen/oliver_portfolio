@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  background: linear-gradient(to bottom right, white, grey);
+  background: linear-gradient(to bottom right, white, silver);
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -16,6 +16,7 @@ body {
   font-weight: bold;
   padding: 10%;
   width: 100%;
+  margin-top: 54px;
 }
 
 .name {
@@ -43,7 +44,7 @@ body {
 }
 
 .portfolio {
-  background: linear-gradient(to bottom right, white, grey);
+  background: linear-gradient(to bottom right, white, silver);
   width: 100%;
   padding: 10%;
 }
@@ -99,7 +100,33 @@ body {
   margin-top: 50px;
 }
 
+.footer-col {
+  margin: 0 auto;
+}
 
+/*.footer-below, .footer-above {
+  margin-top: 50px;
+}*/
+
+.footer-below {
+  background: linear-gradient(to bottom right, grey, black);
+  color: white;
+  padding: 15px;
+}
+
+.footer-above {
+  /*background: linear-gradient(to bottom right, white, grey);*/
+}
+
+.contact {
+  background: linear-gradient(to bottom right, white, silver);
+  padding: 15px;
+}
+
+.contact-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
 
 
 
