@@ -1,0 +1,109 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+  background: linear-gradient(to bottom right, white, grey);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.header {
+  color: white;
+  text-align: center;
+  background: linear-gradient(to bottom right, hotpink, purple);
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 10%;
+  width: 100%;
+}
+
+.name {
+  font-size: 60px;
+}
+
+.occupation {
+  font-size: 24px;
+}
+
+.divide-bar {
+  border: 3px solid white;
+  width: 80%;
+}
+
+.icon {
+  height: 30px;
+  margin-right: 4px;
+  margin-top: 20px;
+}
+
+.github-icon {
+  height: 36px;
+  margin-top: 20px;
+}
+
+.portfolio {
+  background: linear-gradient(to bottom right, white, grey);
+  width: 100%;
+  padding: 10%;
+}
+
+.portfolio-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.portfolio-images {
+  margin: 0 auto;
+}
+
+.img-responsive {
+  width: 20%;
+  height: 30%;
+  margin: 1.8% auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.project-image {
+  display: block;
+  margin: auto;
+  height: 180px;
+  padding-top: 20px;
+}*/
+
+/*.heading, .flags, .timetravlr, .elfy, .kickabout, .navbar {
+  color: white;
+  text-align: center;
+}
+
+.flags {
+  background: linear-gradient(to bottom right, red, orange);
+}
+
+.timetravlr {
+  background: linear-gradient(to bottom right, purple, deepskyblue);
+}
+
+.elfy {
+  background: linear-gradient(to bottom right, limegreen, deepskyblue);
+}
+
+.kickabout {
+  background: linear-gradient(to bottom right, yellow, lawngreen);
+}*/
