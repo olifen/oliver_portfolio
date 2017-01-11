@@ -61,7 +61,7 @@ body {
 .div-responsive {
   width: 100%;
   height: 100%;
-  margin-bottom: 35px;
+  /*margin-bottom: 35px;*/
 }
 
 .img-responsive {
@@ -70,6 +70,10 @@ body {
   margin: 1.8% auto;
   display: block;
 }
+
+/*.col-lg-6 {
+  height: 700px;
+}*/
 
 .project-title {
   font-weight: bold;
@@ -81,7 +85,21 @@ body {
   width: 49%;
   background: linear-gradient(to bottom right, hotpink, purple);
   border: none;
+  margin-bottom: 25px;
+
 }
+
+/*.site {
+  position: absolute;
+  bottom: 0;
+  left: 0
+}
+
+.code {
+  position: absolute;
+  bottom: 0;
+  right: 0
+}*/
 
 .about {
   background: linear-gradient(to bottom right, hotpink, purple);
